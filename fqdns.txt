@@ -1420,6 +1420,7 @@
 4.4.loadbalance2.top
 4.4jshdfcjh4.xyz
 4.ballance.cc
+4.bm5.co
 4.dedimax.fun
 4.efesplus09.pw
 4.hdstreams.site
@@ -5119,6 +5120,7 @@ cname.cdnnet.xyz
 cname.dino.ws
 cname.dinott.com
 cname.mistertopstream.xyz
+cname.pingtx.me
 cname.t4t4.xyz
 cname.watchtv.best
 cname1.acrweb.xyz
@@ -7712,6 +7714,7 @@ es-playtv.ddns.net
 es-strserv3.ddns.net
 es-strserv4.ddns.net
 es.dcfr.live
+es.greatott.me
 es.mostaphi.me
 es.nettv.icu
 es.nexon.icu
@@ -7876,6 +7879,7 @@ expat-tv.xyz
 expattvchina.stream
 expewty.online
 expiresepinions.pproxy.cc
+expresstv.ddns.net
 expsasa.mywire.org
 ext.mcv-media.com
 ext.nologtv.com
@@ -9108,6 +9112,9 @@ glo.proksis.in
 global-joy.sytes.net
 global-player.ddns.net
 global.ottc.pro
+globalepg.live
+globalgnet.live
+globalgnet2.live
 globaltv-pro.xyz
 globaltv.myddns.me
 globaltv100.shop
@@ -9195,6 +9202,7 @@ gold4.goldstore.vip
 gold4ever.org
 goldbox.dynedns.ovh
 golden-piece.gotdns.ch
+golden.12cdngold.online
 goldenbox.me
 goldeniptv.ottc.pro
 goldenpro.xyz
@@ -9937,6 +9945,7 @@ hvdqdgpg91344846w.itsmmmx.tiktok7.me
 hvdqdgpg91344846y.itsmmmx.tiktok7.me
 hvdqdgpg91344846z.itsmmmx.tiktok7.me
 hvmefa99iwbp0o43c9els9lf3tvgg8mq.6vi41sjtiece.top
+hw.pingtx.me
 hwgdpmj.megahdtv.xyz
 hwhite.ddns.net
 hxrkcaonyyc1td7t6vxzywcjiy2uw2mm.wk4e5mz5lhwy.top
@@ -11158,6 +11167,7 @@ kajczak.ottcst.org
 kajko.ottc.pro
 kajkoko.ottc.pro
 kajkokoko.ottcst.org
+kaka.12cdngold.online
 kakamora.tigresonline.com
 kako0408.wanicelife.com
 kale.ydns.eu
@@ -12150,6 +12160,7 @@ line.gold-new.com
 line.golden-iptv.quest
 line.gonzalo.boo
 line.great-pro.cc
+line.greatstar.me
 line.greece321.xyz
 line.hd-4k.cc
 line.hdtvplusqc.ca
@@ -12278,6 +12289,7 @@ line.premium-ott.live
 line.premium-ott.pro
 line.premium-ottpro.com
 line.premiumott.xyz
+line.premiumplus.tv
 line.premiumpowers.net
 line.premiumsat.site
 line.premiumzzzl.xyz
@@ -12295,6 +12307,7 @@ line.prowatch.pro
 line.psott.net
 line.ptn20.xyz
 line.pyhtonott.online
+line.qfliptv.xyz
 line.queen-4k.cc
 line.rachcrystal.com
 line.rajaworld.live
@@ -13053,6 +13066,7 @@ mag.get4kportal.com
 mag.getott.net
 mag.gold-tr.live
 mag.gonzalo.boo
+mag.greatott.me
 mag.hdtvplusqc.ca
 mag.in1278.xyz
 mag.infobox.live
@@ -13088,6 +13102,7 @@ mag.miptv.vip
 mag.mostaphi.me
 mag.my-tv.cc
 mag.myharmonyhos.com
+mag.myox.me
 mag.mytv.sx
 mag.mytvhub.xyz
 mag.myunityhost.com
@@ -13107,9 +13122,11 @@ mag.plus-sc.pro
 mag.plusc.xyz
 mag.portco.xyz
 mag.premiumott.xyz
+mag.premiumplus.tv
 mag.premiumpowers.net
 mag.premiumzzzl.xyz
 mag.prive-ott.net
+mag.qfliptv.xyz
 mag.rajaworld.live
 mag.rayman59.top
 mag.realiptv.org
@@ -13213,6 +13230,7 @@ magnifictvlive.ddns.net
 magogenny.dyndns.tv
 magone.selfip.com
 magonly.cwdn.cx
+magonlyx.abcott.me
 magott.net
 magtopten.myvnc.com
 magtp.2-xtream.com
@@ -15271,6 +15289,7 @@ onionpointer.pproxy.cc
 onkelstv.ottc.pro
 onl31.fastshell.pl
 onlife.hopto.me
+online-max.online
 online.blackdragon.tv
 online.ifxacademy.group
 online.universone.net
@@ -15565,6 +15584,7 @@ parhamtv.xyz
 parigi-1.ignorelist.com
 paris2.amazonserver.us
 parivaariptv.xyz
+park.ddns.net
 parksoperate.pproxy.cc
 parla.new-kool.com
 parmo.ddns.net
@@ -16268,6 +16288,7 @@ privo10.espriv.top
 privo5.espriv.top
 privofirst.ddns.net
 privostore.mooo.com
+prixon.abcott.me
 prixon.newhost.icu
 prize.revfor.com
 prizes67594.cdngold.me
@@ -17263,6 +17284,7 @@ rrhwyhsx6254820j.s134.sky-glass.live
 rrrrd.ottc.pro
 rryfdhk.mexamo.xyz
 rrystal.ottcst.org
+rs.firstiptv.pro
 rs.zone4k.com
 rs3.satgold.xyz
 rs6.satgold.xyz
@@ -19758,6 +19780,7 @@ tr.binbirtv.com
 tr.germanydns9.com
 tr.lux-premium-ott.xyz
 tr.myvip09.com
+tr.simotvgold.com
 tr.ss58.online
 tr.tr17.xyz
 tr.turktvizle.com
@@ -19809,8 +19832,11 @@ trex.clientline.icu
 trex.ghost4k-ott.xyz
 trex.inter1.net
 trex.leartv-ks.top
+trex.newtvott.cc
+trex.onlvip.com
 trex.queentv.club
 trex.spobak.top
+trex.trythisone.cc
 trex.tv-4k.net
 trex.xpremium-ott.xyz
 trextv.ddns.net
@@ -20044,6 +20070,7 @@ tv.hugeiptv1.iptv.uno
 tv.hyper.iptv.uno
 tv.idaougard.org
 tv.illyriaan.iptv.uno
+tv.iptv4best.com
 tv.iptvbenelux.net
 tv.iptvdenmark.iptv.uno
 tv.iptvgermany.xdns.pro
@@ -20091,6 +20118,7 @@ tv.pinbar.xyz
 tv.pisonic.tvip.xyz
 tv.premium-org.net
 tv.premiumiptv.hitv.one
+tv.premiumplus.tv
 tv.primetube.org
 tv.privus.ovh
 tv.produsat.com
@@ -20236,6 +20264,7 @@ tvfull365.online
 tvfullhd.biz
 tvgen.123tv.to
 tvgiaxevolution.xyz
+tvgo.my.id
 tvgolden.ottcst.org
 tvgpm.club
 tvgpm.net
@@ -20323,6 +20352,7 @@ tvwerk.net
 tvwerk.org
 tvwordgo.ddns.net
 tvx.ddns.net
+tvx.trythisone.cc
 twachanet.xyz
 twachapro.ddns.net
 twachasat.ddns.net
@@ -22582,6 +22612,8 @@ y7jmfbt4vfclbnkml9t7.pelo.zaztra.homes
 yHcXcb.yaXXbXU.y.yaXXcHf.ydabXHdfUX.X.y.RO.ts
 ya-6.cdnproxy.net
 ya.canbenow.cc
+ya.pingtx.me
+ya.trythisone.cc
 yabanci001.mysynology.net
 yacht35973.cdngold.me
 yachtsounds.pproxy.cc
