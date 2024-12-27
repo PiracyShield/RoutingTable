@@ -809,6 +809,7 @@
 21666-ozone.cdn-o2.me
 21683-beside.ott-cdn.me
 216www.megogo.net
+217.123555.store
 217333229935812621.ofre802.xyz
 217333229935877341.ofre802.xyz
 21763-don.ott-cdn.me
@@ -3110,6 +3111,7 @@ accent14400.cdngold.me
 accessnwtv.live
 accompany2020.tecnoloveztv.com
 account.echtirak.com
+account.nadxxy.com
 accountv23.iptvgroup.org
 accountv24.iptvgroup.org
 acdyefg.megahdtv.xyz
@@ -3383,16 +3385,20 @@ alex.pointto.us
 alex73555.cdngold.me
 alexandretsubasa.xyz
 alexatv.world
+alexcv1.myftp.org
 alexdavidvinci.iptvgroup.org
 alexdavidvinci23.iptvgroup.org
 alexdavidvinci24.iptvgroup.org
 alexnapoli.zapto.org
 alexprisuti.ydns.eu
 alexsalento.ydns.eu
+alexsv1.viewdns.net
 alextv.webstream.co.ro
+alexv2.hopto.org
 alexyatvcasa.xyz
 alexzip85.ydns.eu
 alexzv1.ddns.net
+alexzv2.sytes.net
 alf2021.ddns.net
 alf8.new-kool.com
 alfa.koolmedia.live
@@ -3409,6 +3415,7 @@ alfiofiat40.ddns.net
 alforja-goldpremium.gold
 alforja-premium.pro
 alfred80364.cdngold.me
+alfredo.blogsyte.com
 alfredo.pinpum.online
 alfrish.ddns.net
 alfy.tecnolab.top
@@ -3435,6 +3442,8 @@ aligator.ottc.pro
 align42937.cdngold.me
 align84671.cdngold.me
 alignement-cert.87-121-221-25.plesk.page
+alinbv1.zapto.org
+alinbv2.sytes.net
 alise12.xyz
 alitv.kozow.com
 alkatraz.mastercloud.store
@@ -3674,6 +3683,7 @@ api.dev.medicalmentor.app
 api.globn.de
 api.linkyvet.com
 api.ministra.me
+api.nadxxy.com
 api.noih.tv
 api.ottpx.com
 api.xtream.cloud
@@ -3698,6 +3708,7 @@ apkplay-market.com
 apkpopv1.ga
 apkv3.xyz
 apkvpn.link
+aplicatie.ddns.net
 apnet.pm
 apnic54119.cdngold.me
 apo.gelbak.me
@@ -3725,6 +3736,7 @@ app.iptvprovider.org
 app.iptvro.link
 app.linkyvet.com
 app.mexapp.xyz
+app.nadxxy.com
 app.nexex.pw
 app.pingoo.link
 app.smart.zeppola2.toP
@@ -3908,6 +3920,8 @@ asnckst.megahdtv.xyz
 aso7jf.vulcanico.xyz
 aso9i.com
 asola.new-kool.com
+asp.myvnc.com
+asp1.servebeer.com
 asp25867.cdngold.me
 asp42448.cdngold.me
 asp79672.cdngold.me
@@ -4302,6 +4316,7 @@ basin65378.cdngold.me
 basis62828.cdngold.me
 basket.new-kool.com
 bass88383.cdngold.me
+bastabasta.ddns.net
 basvod2.com
 basycqz.megahdtv.xyz
 bat73.iptvgroup.org
@@ -4501,6 +4516,7 @@ best55.noip.life
 bestalbtv.com
 bestapp.pro
 bestarabictv.teledunet.com
+bestavb.ddns.net
 bestavb.top
 bestchannel.ddns.net
 bestd55.xyz
@@ -4864,6 +4880,7 @@ bodrum15-3.ydns.eu
 body.new-kool.com
 body83214.cdngold.me
 boetvpro.ottcst.org
+bogdangab.redirectme.net
 bogova.selfip.info
 bohalawit.ottc.pro
 bokkdiom.hopto.org
@@ -6331,6 +6348,8 @@ cos35.de-tr.net
 cos87617.cdngold.me
 cosimomvmv.space-to-rent.com
 cosmomaxi.net
+costyv1.zapto.org
+costyv2.ddns.net
 cotrufo2.ddns.net
 cotrufo5.ddns.net
 cotrufo6.ddns.net
@@ -6555,6 +6574,7 @@ cuts36264.cdnsilver.me
 cutthroat.gotdns.ch
 cuvillier.gentv.to
 cuvita.ddns.me
+cv.webhop.me
 cvb1.art
 cvcabo.ottcst.org
 cvet88.teslavision.eu
@@ -7594,10 +7614,12 @@ damo9cossevohrcio.panna.gigante.homes
 dan.kju29hand.xyz
 dana-tv.com
 danba.sharktv.org
+danbursuc.gotdns.ch
 dandanboutv.com
 danger.lifeisnow.biz
 daniel-nxt.ddns.me
 daniel.pointto.us
+danielandrei.ddns.net
 daniele-grb.ale.beauty
 danielino.ddns.net
 danielino22.cloudns.ph
@@ -7800,6 +7822,7 @@ deluxepach.ottcst.org
 deluxtv.xyz
 demba.ottc.pro
 demo.inovis.si
+demo.nadxxy.com
 demo.netcloud24.com
 demo.ottc.pro
 demo.ottcst.org
@@ -8049,6 +8072,7 @@ dinotv.nz
 dinoxox.proxytx.cloud
 dinoya.vitv.cc
 dinsahtv.ottc.pro
+dinuv1.ddns.net
 diorsweed.ottc.pro
 direct.jinbox.nl
 direct.ottc.pro
@@ -8184,6 +8208,7 @@ dodge82821.cdngold.me
 dodo.123tv.to
 dodo2012b2tv.ddns.net
 dog.revfor.com
+doganiptv.xyz
 doggi.ottc.pro
 doggybeta.kamasutramain.shop
 dogs78492.cdngold.me
@@ -8209,6 +8234,7 @@ dominionome.newlifes.info
 dominios-cristianos.ddnsfree.com
 domino62.hopto.org
 dommy84.ddns.net
+domv1.ddns.net
 domy1000.bumbleshrimp.com
 domymille100.ddns.net
 domzia.acquarius.work
@@ -8467,6 +8493,7 @@ dude83146.cdngold.me
 dudrkhz.megahdtv.xyz
 due.revfor.com
 due31484.cdngold.me
+duetreequatro.from-me.org
 dufrfvx.megaprimetv.xyz
 dui99585.cdnsilver.me
 dumb23908.cdnsilver.me
@@ -8608,6 +8635,7 @@ ecjtpro.com
 eck123.club
 eclair-cp.com
 eclair-tv.com
+ecommerce.nadxxy.com
 ecopacman.xyz
 ecpuzqm.megahdtv.xyz
 ecqmzat.leadcool.xyz
@@ -8715,6 +8743,7 @@ electrozamouri.com
 electrst.xyz
 electusvp.xyz
 elementdeath.pproxy.cc
+elenav1.ddns.net
 elene.solanaflix.com
 elettroshock.iptvgroup.org
 elevensnet.xyz
@@ -8906,6 +8935,7 @@ es.nettv.icu
 es.nexon.icu
 es.scorpionott.xyz
 es.smarttv4k.xyz
+es.vp09.xyz
 es123.dinoplayer.net
 es4.raam.ro
 es4u.live
@@ -9029,6 +9059,7 @@ evdtv.app
 evdtv.info
 evdtv.to
 even23468.cdngold.me
+events.nadxxy.com
 eventsbaptist.pproxy.cc
 everestnext.com
 everfit.ddns.net
@@ -9061,6 +9092,7 @@ exchange.proiptv.nl
 exchangemain.jinbox.in
 exclusifott.site
 exclusifott.xyz
+exclusiv.dynns.com
 exclusive-privacy.ddns.net
 exclusive-tv.ddns.net
 exclusive.dyndns.ws
@@ -9411,6 +9443,7 @@ feeds87978.cdngold.me
 feff43f.cucaracha2.nl
 fehnsnr.mchenh.xyz
 feign.new-kool.com
+felea.ddns.net
 felice-grb.servehttp.com
 felixprivtv.xyz
 fence79472.cdngold.me
@@ -9506,6 +9539,7 @@ filipposanto.dyndns.org
 fill.new-kool.com
 filme30776.cdnsilver.me
 filme92030.cdngold.me
+filmepe.net
 finaliptvhd.xyz
 finals63636.cdngold.me
 finansijskiplicak.ottc.pro
@@ -9611,6 +9645,9 @@ flock.new-kool.com
 flogauartv.ddns.net
 flor.voltron.ovh
 flores.ligasat.in
+florin2salam.ddns.net
+florincercel.gotdns.ch
+florinsalam.ddns.net
 flotty.new-kool.com
 flow365.cloud
 flower78405.cdnsilver.me
@@ -10032,6 +10069,7 @@ fullvippro.net
 fullvision4k.xyz
 fullwh1t3.is-by.us
 fulminesat.ddns.net
+fultv2.sytes.net
 fun-tv.club
 fun.revfor.com
 fun24hrs.com
@@ -10114,6 +10152,7 @@ gabbius3.ddns.net
 gabbius34.ddns.net
 gabiharnagea.iptv.life
 gabri.lifeisnow.biz
+gabriel.servep2p.com
 gabril.lifeisnow.biz
 gaby.servep2p.com
 gado.giize.com
@@ -10142,12 +10181,14 @@ game.mypsx.net
 game.smdig.net
 game19.ddns.net
 game33429.cdngold.me
+gameone.ddns.net
 gameplay.ddns.net
 gameport.scplay.co
 gamepower.giize.com
 gamepowernew.giize.com
 games.nevada.or.at
 gameshighlives.xyz
+gametwo.ddns.net
 gamgam.fullrock.win
 gaml1iec.x4nhkjtgvm94.top
 gamma15686.cdnsilver.me
@@ -10659,6 +10700,7 @@ grace19562.cdngold.me
 grain64664.cdngold.me
 gram.kozow.com
 granata75.pchiyo.cyou
+granceav2.webhop.me
 grand22358.cdngold.me
 grand29321.cdngold.me
 grand78851.cdngold.me
@@ -11060,6 +11102,8 @@ hill28266.cdngold.me
 hills57618.cdngold.me
 hilton62488.cdngold.me
 hiltonrounds.pproxy.cc
+hinekv1.ddns.net
+hinekv2.viewdns.net
 hints67590.cdngold.me
 hioria.iptvgroup.org
 hip.giize.com
@@ -11430,6 +11474,7 @@ ibrachicco.cloudns.ph
 ibrachicco.ddns.net
 ibrasmarters.com
 ibrufk.live
+ibudv3.hopto.org
 icarus7444.anubi-artemis.com
 icbluehosting.com
 ice.afinrumunn.xyz
@@ -11602,6 +11647,8 @@ ilgenio666.dynu.net
 ilgeniodellostreaming.college
 ilgobbo.myserverdnsbrasilia.com
 ilgobbo.tecnoloveztv.com
+iliev1.hopto.org
+iliev2.myddns.me
 ililiiiililiiiillliii.neat-url.com
 ilistv.com
 illupoblu.75njd56fs.xyz
@@ -11739,6 +11786,8 @@ iocupocu.glxservices.xyz
 ioete.mine.nu
 ion30200.cdngold.me
 ionos.wanicelife.com
+ionut007.ddns.net
+ionutbv2.bounceme.net
 ios.jokerstore.stream
 ios.jokerstorebrand.tech
 ios.sezonplay.com
@@ -11787,6 +11836,7 @@ ip1.super1.lat
 ip100.ip-51-68-58.eu
 ip102.ip-145-239-105.eu
 ip112.ddns.net
+ip115.ip-188-165-117.eu
 ip118.ddns.net
 ip1223.bilix.ma
 ip165.ip-151-80-120.eu
@@ -13424,6 +13474,7 @@ latvmolarevolution.sytes.net
 laugh27463.cdngold.me
 launch11178.cdngold.me
 launchtalkedbasis.h1ott.com
+laura.chiringuitotv.club
 laura64536.cdngold.me
 laurenlending.pproxy.cc
 lauretana.zapto.org
@@ -14088,6 +14139,7 @@ line4you.xyz
 line5.protv.cc
 line6.protv.cc
 linea1.secur.homes
+lineage2v1.observer
 linebestpro.online
 linecr.4kip.tv
 lineforfriends.ddns.net
@@ -14409,6 +14461,7 @@ logo.iq-net.tv
 logo.noih.tv
 lokaliptv.ottc.pro
 lol.bz
+lol.bz.cdn.cloudflare.net
 lol.ptwo.ch
 lola.ddns.net
 lollipop-nfc.online
@@ -14417,6 +14470,7 @@ lollosotv.spazio.life
 lolosat.xyz
 lomaxs.xyz
 lomba.ro
+lon-node1.energizedit.com
 londonsky.xyz
 lonelyteach.pproxy.cc
 longax.shop
@@ -14443,6 +14497,8 @@ lordstreams.live
 loren.ddns.net
 lorenzo.spazio.life
 lorenzo.tecnoloveztv.com
+lorev1.ddns.net
+lorev2.zapto.org
 loris.61.brekloop.sbs
 lorri.solanaflix.com
 lose31422.cdngold.me
@@ -14472,6 +14528,7 @@ lovtvb.us
 low.fast4tivi.online
 low31492.cdngold.me
 loyaliptv.com
+lpd.zapto.org
 lpoiafrvkvgttdt.drt.poltra.homes
 lrnvid.vip
 lrsv.de
@@ -14686,6 +14743,7 @@ maap2.giize.com
 macedonia.ottc.pro
 macheb.smarters.cfd
 mactv.hopto.org
+madav2.ddns.net
 maddylive4it.life
 madino.site
 madly546.xyz
@@ -15111,6 +15169,7 @@ maincdn.live
 maindino.proxytx.cloud
 mainphp.cwdn.cx
 mains.services
+mainsev.serveftp.com
 maior.koolmedia.live
 maispao.xyz
 maja22.net
@@ -15222,6 +15281,7 @@ mariski.xyz
 mariuccillo.zapto.org
 marius.doomdns.org
 marius8.com
+mariusapv1.ddns.net
 marjus.xyz
 mark22.privres.xyz
 mark3-line.xyz
@@ -15254,6 +15314,7 @@ marvel.hita.cc
 marvel.ovh
 marvel2.hita.cc
 marvel3.hita.cc
+marveliptv.life
 marvelive.v6.rocks
 marvelous.nomorecable.me
 marz.hrsplay.xyz
@@ -15658,6 +15719,7 @@ migrate.camdvr.org
 miguel.ottcst.org
 miha23.iptvgroup.org
 mihail.ydns.eu
+mihaita.access.ly
 mihrali.net
 miii.ch
 mike.ottc.pro
@@ -16254,6 +16316,7 @@ nabil.ottc.pro
 nachos.mdelivery.online
 nade22.xyz
 nador.nexon.pro
+nadxxy.com
 nairobi8282.ddns.net
 nak.servegame.org
 nakamuratv.net
@@ -16348,6 +16411,7 @@ nelli.solanaflix.com
 nelsonbufing.pproxy.cc
 nelsonchannel.pproxy.cc
 nelsonrealtors.pproxy.cc
+nelumilan.servep2p.com
 nem3sis-generationtv.online
 nem3sis-generationtv.xyz
 nem3sis1703.ddnsking.com
@@ -16900,6 +16964,7 @@ ns3109425.ip-54-36-110.eu
 ns311340.ip-188-165-209.eu
 ns31302844.ip-51-195-7.eu
 ns31560568.ip-162-19-83.eu
+ns3209430.ip-198-244-202.eu
 ns365608.ip-178-33-229.eu
 ns368111.ip-94-23-30.eu
 ns368111.ovh.net
@@ -17099,6 +17164,7 @@ okyprotv.online
 ola.teledunet.com
 ola.todomundolive.com
 old.n111s.co
+old.nadxxy.com
 olddns.xyz
 oldgenny.master-iptv-hopto.me
 oldpp.tryv24.shop
@@ -17387,6 +17453,8 @@ p4u4s3w2t273r3p4c444.spn3.frontcloud.me
 p5vqqi2csq9s.c-dn.tech
 pa02.host-videos.me
 pa5ky.ddns.net
+pab.servep2p.com
+pab2.onthewifi.com
 pabl.koolmedia.live
 pablito.zapto.org
 pablo4263.dynu.net
@@ -17874,6 +17942,7 @@ plesco26.iptvgroup.org
 pleven.day
 plex.ottcst.org
 plextv.sooyya.xyz
+pleyerapp.ddns.net
 plnkrbg13532.xyz
 plnlve286.xyz
 plqa.online
@@ -17943,6 +18012,7 @@ pop3.nellins.com
 pop3.ooata.com
 pop3.rodarts.com
 pop3.thesyncopatedtimes.com
+popav1.zapto.org
 popcorntv.c2018.xyz
 popcorntv.info
 pope26139.cdngold.me
@@ -18468,6 +18538,7 @@ proxym3u.watchtv.best
 proxyscty.doubleserver.nl
 prp2024.ddns.net
 prs.c2018.xyz
+prtvrafa.hopto.org
 prucinella8092.ic3berg.xyz
 prue.solanaflix.com
 pruebanx.boxplc.com
@@ -18519,6 +18590,7 @@ pupo134.fantacalcio2122.xyz
 pupo134.v6.navy
 puppysinha.xyz
 puravida.ottcst.org
+purcelv1.ddns.net
 pure4k-hd.pro
 pure8k.top
 purehdsv1.cloud
@@ -18790,6 +18862,7 @@ radomabackup.ddns.net
 radomafastip.ddns.net
 radomaplayer.ddns.net
 raduesat.com
+rafav1.zapto.org
 raff.exclusive-live.com
 raffkmz.exclusive-live.com
 raffo.arca.st
@@ -18845,6 +18918,7 @@ raptor-tv.pro
 raptor-tv.xyz
 rare.new-kool.com
 rare10904.cdngold.me
+raresv2.bounceme.net
 rasl.info
 raspberry.net-freaks.com
 rastvzas.xyz
@@ -19172,6 +19246,7 @@ ribbon.privres.top
 ricci-mondo.ale.beauty
 ricina.ddns.net
 ricky.ptwo.ch
+rickyv1.servepics.com
 ricottatosta.ddns.net
 rider.ghostwibes.com
 riders29176.cdngold.me
@@ -19822,6 +19897,8 @@ savi.live33.top
 savin-tv.com
 saving43953.cdnsilver.me
 savingcheat.proxy.pink
+savinv1.ddns.net
+savinv3.ddns.net
 savoiardo83.expanseteam.uno
 sawiptv.xyz
 say.revfor.com
@@ -20526,6 +20603,7 @@ smt.vkfr.co.ro
 smtld.cularu.com
 smtp.biphost.pro
 smtp.bmbtv.me
+smtp.nadxxy.com
 smtp.ooata.com
 smtp.prayers.tenderinghours.com
 smtp.rodarts.com
@@ -20653,6 +20731,7 @@ spaintv.ottc.pro
 spanprotv.xyz
 spanqo.casa
 spantvpro.xyz
+spareserver.ddns.net
 sparktv.ddns.net
 sparta-tv.ddns.net
 spartan1979.hopto.org
@@ -20933,6 +21012,7 @@ stamps85425.cdnsilver.me
 stan.webhop.org
 standard.wf
 standardex.xyz
+stanilo.ddns.net
 star-tv.live
 star-vis.com
 star.piccerell.online
@@ -21018,6 +21098,8 @@ stiptv3.xyz
 stivasee.ddns.net
 stl.nadaquenaosabia.xyz
 stlakoskamil.club
+stoicanv1.zapto.org
+stoicav1.gotdns.ch
 stolen40336.cdngold.me
 stonage.dyndns.tv
 stor.uvitech.eu
@@ -21315,7 +21397,9 @@ supzaza.xyz
 suricateblockchain.xyz
 suriesto.com
 surveysgenesis.pproxy.cc
+suteuv1.sytes.net
 sutklbcdf.loi.norv.homes
+sutuv2.gotdns.ch
 suzuk.ddns.net
 suzuki25901.cdngold.me
 sv7jftqdut15jd1csx2wshcq9cfvljvy.catchmeifyoucan.top
@@ -22055,6 +22139,7 @@ totalplex.site
 totalrex.site
 totals66419.cdngold.me
 totalvision.ottc.pro
+toteu.ddns.net
 toth.pssopo.xyz
 toto1978.newgenerationtv.online
 totoo.pummarol.store
@@ -22761,6 +22846,7 @@ tyua7.fun
 tyuas6.xyz
 tzkyxdk.leadcool.xyz
 tztv.topten70.net
+tzuraganu.gotdns.ch
 u-on.cc
 u.exyutv.win
 u1.pyth-on.com
@@ -23075,6 +23161,7 @@ v1.germservice.cyou
 v1.mclan.co
 v1.spnciptv.xyz
 v1.thegserver.tk
+v1alexf.servebeer.com
 v1p-vision.serveftp.com
 v1uak8.sekkd.com
 v2-24.bsdns.pw
@@ -23087,8 +23174,10 @@ v21zet2.cms-one.com
 v21zett1.cms-one.com
 v2and.vpzid.com
 v2dtv.cdn-dtv.com
+v2elena.viewdns.net
 v2m3u.sf-m3u.info
 v2m3u.tz-m3u.info
+v2palcu.ddns.net
 v2vy9v.msyaa.com
 v3.iptvspor.de
 v3.sadoiptv.eu
@@ -23167,6 +23256,7 @@ valhal31.xyz
 valhalla.ottc.pro
 valid89651.cdnsilver.me
 valleytv.xyz
+valorant.re
 valoroso.dtsinc.cc
 valterfale.acquarius.work
 value74963.cdnsilver.me
@@ -23560,6 +23650,7 @@ vivo.nettv.icu
 vivo4k.net
 vizio.new-kool.com
 vizyon.live
+vizyonhd.ddns.net
 vj1yufmx01302283f.f17s16x2.kokotrnasit.me
 vj1yufmx01302283g.f17s09.asiacdn.me
 vj1yufmx01302283h.f17s09.asiacdn.me
@@ -23710,6 +23801,7 @@ vps-f2302800.vps.ovh.net
 vps-f74c0694.vps.ovh.net
 vps-fb59fa20.vps.ovh.net
 vps.kronk-team.fr
+vps.nadxxy.com
 vps0011.escolasegura.com
 vps0014.escolasegura.com
 vps004.escolasegura.com
@@ -24189,6 +24281,7 @@ www.aanax.com
 www.abc-net.uk
 www.abdouvision.com
 www.abdouvision.net
+www.account.nadxxy.com
 www.activetv.club
 www.adeel.top
 www.adelprosatiptv.com
@@ -24238,6 +24331,7 @@ www.bayflo.net
 www.best4u.biz
 www.best4u.tn
 www.bestkof-lnd.xyz
+www.beta.nadxxy.com
 www.biggiesmall.xyz
 www.bigmovietv.com
 www.biphost.pro
@@ -24302,6 +24396,7 @@ www.dazzling-easley.87-121-221-11.plesk.page
 www.dejwtvhd.net
 www.desiblaze.com
 www.destinyip.tv
+www.dev.nadxxy.com
 www.dgtltor.cloud
 www.digitalproo.shop
 www.dimel.club
@@ -24336,6 +24431,7 @@ www.es4u.live
 www.esps.cc
 www.eutvnocables.xyz
 www.euxx01.com
+www.events.nadxxy.com
 www.exynox.xyz
 www.exyunettv.net
 www.fancy-servicetv.cc
@@ -24477,6 +24573,7 @@ www.kplatino.net
 www.lajmi.xyz
 www.lampe-url.com
 www.lampka-url.com
+www.laravel.nadxxy.com
 www.latamiptv.com
 www.latintvplus.com
 www.lebiptv.com
@@ -24512,6 +24609,7 @@ www.lve72.xyz
 www.magic100.live
 www.magilevelplustv.net
 www.magmas5.com
+www.main.nadxxy.com
 www.malaguitadelfuturo.pw
 www.manyla.cc
 www.margixs.com
@@ -24581,6 +24679,7 @@ www.mytv-pro.online
 www.myvipmedia.com
 www.mzal.site
 www.nadornet.com
+www.nadxxy.com
 www.nellins.com
 www.net-pro.xyz
 www.net-tv-24.com
@@ -24614,6 +24713,7 @@ www.nxtg.top
 www.obilix.es
 www.ofio.xyz
 www.ofnice.xyz
+www.old.nadxxy.com
 www.onaiptv.org
 www.oncheres.xyz
 www.one-ott.com
@@ -24816,6 +24916,7 @@ www.telewizjaq.com
 www.telves.net
 www.test-sieger.live
 www.test.1fastr.org
+www.test.nadxxy.com
 www.theking365tv.best
 www.theking365tv.me
 www.theking365tv.red
@@ -24847,6 +24948,7 @@ www.ttspainonline.xyz
 www.tunisiaiptv.com
 www.tuscanyan.org
 www.tv.credibletv.com
+www.tv.nadxxy.com
 www.tv.rebeliptv.com
 www.tv.space-ott.com
 www.tv.xtremetv.eu
@@ -25008,6 +25110,7 @@ xd682327.pm
 xdaa.revfor.com
 xdplayer.tv
 xdream.lupitv.eu
+xdx.servehttp.com
 xeon-live.ddnsfree.com
 xeontv.duckdns.org
 xeontv2.duckdns.org
@@ -26045,6 +26148,7 @@ zebrcc.ddnsking.com
 zebrone-play.ydns.eu
 zebrone-plays.ydns.eu
 zebrti.me
+zedhdprincipal.ddns.net
 zeki.baba-iptv.com
 zelliptv.ottcst.org
 zen.dragonsat.net
