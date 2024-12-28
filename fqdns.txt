@@ -117,6 +117,7 @@
 1.mmtv.ch
 1.newgen.pw
 1.ninjacdn.net
+1.nowdns.ch
 1.onlinestream.club
 1.oses35.online
 1.osk10.xyz
@@ -1778,6 +1779,9 @@
 450singleplayerserver02.ufcfan.org
 45118-cradle.ott-cdn.me
 45143-recipe.ott-cdn.me
+451503y3t434h3v2p4l4.nwlb1.imadian.net
+451503y3t434h3v2p4l4.nwlb16.imadian.net
+451503y3t434h3v2p4l4.nwlb22.imadian.net
 4520638.lbj06.xyz
 4520638.lbtvod28.xyz
 45242-after.cdn-o2.me
@@ -5629,6 +5633,7 @@ cdn.digitaluk.store
 cdn.domino62.store
 cdn.doremiall.com
 cdn.easports.cloudns.ph
+cdn.easy-stream.xyz
 cdn.ermejodermundo.lol
 cdn.erost.us
 cdn.fiascodns.org
@@ -8703,6 +8708,7 @@ ejimnews.xyz
 ejz.shkd94ym.xyz
 ekalite.xyz
 ekjfszw.megahdtv.xyz
+ekoora.com
 ekotv.me
 ekotvm.xyz
 ekran-media.live
@@ -8723,6 +8729,7 @@ elecgg.xyz
 elecrta.selfip.biz
 electbook.ch
 electr54.xyz
+electric.protexnddns.xyz
 electricalforce.ottc.pro
 electriprostb.xyz
 electro-wazan.com
@@ -9583,6 +9590,7 @@ fishtales666.myphotos.cc
 fissoab.mine.nu
 fist38476.cdnsilver.me
 fit26675.cdnsilver.me
+five.nowpvt.pro
 five43702.cdngold.me
 fiveeproxi.miracleflux.link
 fix93.dyndns.org
@@ -10429,6 +10437,7 @@ git94.xyz
 github.u8.pw
 gitlab.guillaume-caux.fr
 gitlab.lrsv.de
+giu-tv.ddns.net
 giugno.insalata.xyz
 giukka.ddns.net
 giulio01.spazio.life
@@ -11627,6 +11636,7 @@ igor.newlifes.info
 igotiptv.ottc.pro
 igotsupply.ottcst.org
 iguana.miracleflux.link
+iguana.nowpvt.pro
 ihom66.xyz
 ihomer.xyz
 iii85477.cdnsilver.me
@@ -11857,6 +11867,7 @@ ip62.ip-51-38-165.eu
 ip73.ip-178-33-43.eu
 ip73.ip-87-98-188.eu
 ip75.ip-51-178-212.eu
+ip76.ip-5-135-38.eu
 ip86.ip-51-195-97.eu
 ip88.ip-178-33-249.eu
 ip8plus.one
@@ -13097,8 +13108,10 @@ koolpia.ddns.net
 koolpin.ddns.net
 koolsan.ddns.net
 koolsmart2.revfor.com
+kooora.kora-live.live
 kooora.live-kooora.com
 kooora.live-koora.live
+koooralive-tv.io
 koorafdar.art
 koppermann68.camdvr.org
 korabimounting2022.ottc.pro
@@ -14375,6 +14388,7 @@ livegopanel.club
 livehome.damnserver.com
 liveiphone.livepulsetv.xyz
 liveiptvhdd.fun
+livekoora.okkora-live.com
 livelink.ydns.eu
 livemagnifico.gotdns.ch
 livenew.3utilities.com
@@ -16919,6 +16933,7 @@ now.hirpinus.site
 now.italia-90.com
 now.stock.miracleflux.link
 now38940.cdngold.me
+nowapp.nowpvt.pro
 nowatv.stream2.link
 nowhosts.one
 nownew.dyndns.tv
@@ -17739,6 +17754,7 @@ phase68086.cdngold.me
 phatv.net
 phenix-iptv52.com
 phnabkf.megahdtv.xyz
+phoenix.protexnddns.xyz
 phoenix.tv-world.vip
 photoreveals.pproxy.cc
 php1.proxypyt.com
@@ -18181,6 +18197,7 @@ prematurata.duckdns.org
 premier.ottc.pro
 premiere.zone4k.com
 premierpeoples.pproxy.cc
+premigliortv.shop
 premium-4ott.xyz
 premium-iptvesun.com
 premium-line4ott.com
@@ -20242,6 +20259,7 @@ shop.ottc.pro
 shopiptv-pro.com
 shopsfactor.pproxy.cc
 shore30495.cdngold.me
+shotz.yalla-shoot-tv.live
 show-max.ovh
 show.vipnow.xyz
 showme.gotdns.ch
@@ -20272,6 +20290,7 @@ sig.ottc.pro
 sigario.dynuddns.net
 sigarok1.bond
 siggiztv.com
+sigma.sistemy.xyz
 sigmaedmonton.pproxy.cc
 sigmund.ddns.net
 signoraldo.iptvgroup.org
@@ -20497,6 +20516,7 @@ smarters-premium-tv.com
 smarters-premium.xyz
 smarters-prolive.xyz
 smarters-prott.xyz
+smarters-tv.ddns.net
 smarters.cdn-domain.com
 smarters.denisat.com
 smarters.experiencebay.xyz
@@ -21309,6 +21329,7 @@ superom5.xyz
 superonetv.ml
 superp4.xyz
 superpig.superveloce.store
+superpippo.myddns.me
 superprimeddns.net
 superquality01.specialguest.biz
 superquality02.specialguest.biz
@@ -23100,6 +23121,7 @@ useful84859.cdngold.me
 user.limenjoy.nl
 user.strmzz.cx
 user1.87-121-221-52.cprapid.com
+userline.x-zeus.nl
 userlist.flux-atv2k22.xyz
 uses62470.cdngold.me
 uses84336.cdngold.me
@@ -24568,6 +24590,7 @@ www.kokix66.live
 www.konda.biz
 www.konmedtv.com
 www.kontrolapristupa.com
+www.koraa-live.com
 www.koralive.io
 www.kplatino.net
 www.lajmi.xyz
@@ -24641,6 +24664,7 @@ www.metropolvip.xyz
 www.mhav10.vip
 www.mhiptv.info
 www.mhiptv.vip
+www.migteam.kiev.ua
 www.miii.ch
 www.mimounonline.com
 www.ministra24tv.pro
