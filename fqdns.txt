@@ -409,6 +409,11 @@
 12860-sigma.cdn-o2.me
 12886-matt.cloud-ott.me
 128e7vga16on.edge-b.shop
+128monsterserva01.dynudns.com
+128monsterserva02.dynudns.com
+128monsterserva03.dynudns.com
+128monsterserva06.hubddns.com
+128monsterserva07.hubddns.com
 12966-impose.cdn-o2.me
 12awyd.sekkd.com
 12bdc.noip.life
@@ -553,6 +558,8 @@
 15bg-1.dynuddns.com
 15f513n3k33644t3s2y5.handbook.cc
 15f513n3k33644t3s2y5.nwlb1.forthebesttime.com
+15z4o4849474f3j3v3n3.b468gz2xujcv.net
+15z4o4849474f3j3v3n3.sp3.frontcloud.me
 16.ballance.cc
 16.tvforu.xyz
 16015-magic.cdn-o2.me
@@ -709,6 +716,7 @@
 195-154-118-127.rev.poneytelecom.eu
 195-154-182-167.rev.poneytelecom.eu
 195-154-235-209.rev.poneytelecom.eu
+195-154-80-89.rev.poneytelecom.eu
 19547-tired.ott-cdn.me
 19554-yen.cdn-o2.me
 1963039.jyxor.xyz
@@ -799,6 +807,7 @@
 2.15tt.xyz
 2.2.loadbalancebis03.xyz
 2.atavip.xyz
+2.betaiptv.vip
 2.bunnycdn.cloud
 2.ccccc.in
 2.de-vastweba5.pro
@@ -817,6 +826,7 @@
 2.vestatv.xyz
 2.wtvs2.com
 20.enhar.win
+20.flixip.icu
 20.run
 20036-lobby.ott-cdn.me
 20041-waiver.ott-cdn.me
@@ -931,6 +941,7 @@
 220924.007.contact
 220925.007.contact
 220926.007.contact
+220z.eu
 22144-offset.cdn-o2.me
 221478921917827945.of51.xyz
 22168-casio.cdn-o2.me
@@ -1188,6 +1199,13 @@
 294.18v36j12n.xyz
 29503-lovers.ott-cdn.me
 29542-level.cdn-o2.me
+2957740.v.dorex.xyz
+2957740.v.jyfro.xyz
+2957740.v.mylix.xyz
+2957740.v.sopet.xyz
+2957740.v.vyrel.xyz
+2957740.v.xyfor.xyz
+2957740.v.zorvy.xyz
 296323679074.cdn-fug.com
 29642-net.ott-cdn.me
 29663-tier.cdn-o2.me
@@ -1471,6 +1489,7 @@
 349sudvcdfg.dule.loadbalance1.xyz
 349udfg.dule.loadbalance1.xyz
 34guru.revfor.com
+34mg.n3r7stm.eu
 34mix.com
 35.777tv.in
 35.ballance.cc
@@ -1482,6 +1501,13 @@
 35118-feof.ott-cdn.me
 351219815565.d4ktv.info
 351268129723.d4ktv.info
+3519573.v.dorex.xyz
+3519573.v.jyfro.xyz
+3519573.v.mylix.xyz
+3519573.v.sopet.xyz
+3519573.v.vyrel.xyz
+3519573.v.xyfor.xyz
+3519573.v.xyplo.xyz
 35200-east.cdn-o2.me
 352ip.uno
 35304-sing.cloud-ott.me
@@ -1851,6 +1877,17 @@
 43040-fun.ott-cdn.me
 43041-parts.cloud-x.me
 43052-rights.cdn-o2.me
+4305577.v.dorex.xyz
+4305577.v.jyfro.xyz
+4305577.v.mylix.xyz
+4305577.v.sopet.xyz
+4305577.v.vyrel.xyz
+4305577.v.xyplo.xyz
+4305885.v.jyfro.xyz
+4305885.v.mylix.xyz
+4305885.v.vyrel.xyz
+4305885.v.xyfor.xyz
+4305885.v.xyplo.xyz
 43069-prizes.ott-cdn.me
 4307001.v.gorex.xyz
 4307001.v.jyber.xyz
@@ -1881,6 +1918,13 @@
 43635-isbn.cdn-o2.me
 43707-why.cdn-o2.me
 43744-gothic.oot-mx.me
+4377639.v.dorex.xyz
+4377639.v.jyfro.xyz
+4377639.v.mylix.xyz
+4377639.v.sopet.xyz
+4377639.v.vyrel.xyz
+4377639.v.xyfor.xyz
+4377639.v.xyplo.xyz
 43783-plates.ott-cdn.me
 43789-employ.cdn-o2.me
 43789-tin.ott-cdn.me
@@ -2004,6 +2048,8 @@
 45835-salt.cdn-o2.me
 45888-shops.ott-cdn.me
 45942-beads.cdn-o2.me
+45949303n3145363x4j4.9don2ca1yk1d.pro
+45949303n3145363x4j4.fw3.servicecloud.one
 45971-mouse.ott-cdn.me
 45g4an.revfor.com
 45g4b.revfor.com
@@ -2134,6 +2180,8 @@
 489singleplayerserver02.ufcfan.org
 49.adfg4gf34dsd634a2.xyz
 49.fodasoft.com
+4900543.lbss22.xyz
+4900543.lbss26.xyz
 490534983635.d4ktv.info
 490singleplayerserver02.ufcfan.org
 49110-skin.cdn-o2.me
@@ -3284,6 +3332,7 @@ Hujgiytgfvgu6562795.5070.org
 Iptv-italia-pezzotto.it
 Konyafb55-6.camdvr.org
 Pplloooiubbgddyun.cloud-cdn.icu
+Pppllmmnkhghtyihyf.cloud-cdn.icu
 V2DV7YYM7EiR8GqSxq7oRT.cdnload.shop
 Yyytttfccbbxxddon.cloud-cdn.icu
 a-cekini.gr
@@ -3558,12 +3607,14 @@ adds94186.cdngold.me
 adelaide.2tp0.tf
 adelprosatiptv.com
 adenmedia.net
+adeuga.com
 adhjcbp.leadcool.xyz
 adidastv.xyz
 adjust44934.cdngold.me
 adjust71822.cdngold.me
 adler-iptv.net
 adlertv.live
+adm.netiptv4k.com
 adm.noia.fun
 admagnum.net
 admi.koolmedia.live
@@ -3645,7 +3696,10 @@ afyndns.pointto.us
 afyon.pixeltvx.vip
 ag767r.xyz
 agadiroufla.info
+again-ds.life
 again.live
+againds.lol
+againds.world
 againhere.dynahost.ovh
 agathe.solanaflix.com
 agbaza.ottcst.org
@@ -5077,6 +5131,7 @@ bestluxott.xyz
 bestmediahq.com
 bestmedialabs.com
 bestmedialy.com
+bestone.nocu.club
 bestp55.xyz
 bestpremium.xyz
 bestserviceiptv.ottc.pro
@@ -5327,6 +5382,7 @@ blinktry.com
 blissful-elgamal.80-92-204-83.plesk.page
 block-Hhhhfccjjvvttyijccffgtyf.cloud-cdn.icu
 block-Pplloooiubbgddyun.cloud-cdn.icu
+block-Pppllmmnkhghtyihyf.cloud-cdn.icu
 block-Yyytttfccbbxxddon.cloud-cdn.icu
 block-bes-14.bahrik.co
 block-iippppKyTarkhhgoon.cloud-cdn.icu
@@ -5505,6 +5561,7 @@ boski1080.xyz
 boskobuha.org
 bosniabeaches.pproxy.cc
 boss.dynns.com
+boss.iptv67.com
 boss12.dns.army
 boss13.dns.army
 boss4k.tv
@@ -5731,6 +5788,7 @@ btmvjut.vpnprime.xyz
 btnu4assdc.trlylb2.lloader.com
 btpghsd.megahdtv.xyz
 bturywe.leadcool.xyz
+btvbtv.hopto.org
 btxxxez.leadcool.xyz
 btyhkwb.megahdtv.xyz
 btymwps.leadcool.xyz
@@ -6192,6 +6250,7 @@ cavallomarino.dyndns.org
 cavallopazzo123.men
 cavallopazzo2.ddns.net
 cavalofurioso.xyz
+cavod.teledunet.com
 cazintv.com
 cazzo.dyndns.org
 cazzotrapani.dvrcam.info
@@ -8573,6 +8632,7 @@ deluxepach.ottcst.org
 deluxip.pro
 deluxtv.xyz
 demba.ottc.pro
+demo-01.idea-groupe.com
 demo.inovis.si
 demo.nadxxy.com
 demo.netcloud24.com
@@ -8626,6 +8686,7 @@ destroka.123tv.to
 detail64585.cdngold.me
 detect56596.cdnsilver.me
 dettofattocatering.dyndns.info
+detv.teledunet.com
 deus21.bounceme.net
 deutschetelekom.apzz.xyz
 deutschland.x-prime.net
@@ -9382,6 +9443,11 @@ e405x2y3t3l4m4a3x2z2.srv2.cloud-front.xyz
 e405x2y3t3l4m4a3x2z2.tre45k76.xyz
 e45.dijiservertv.site
 e4k-ott.com
+e4k453a4v224t3t3z2b4.b468gz2xujcv.net
+e4k453a4v224t3t3z2b4.fw1.frontcloud.pro
+e4k453a4v224t3t3z2b4.fw2.frontcloud.pro
+e4k453a4v224t3t3z2b4.sp3.frontcloud.me
+e4k453a4v224t3t3z2b4.srv2.servicecloud.one
 e4k56484s3w233q253k3.b468gz2xujcv.net
 e4k56484s3w233q253k3.fw3.servicecloud.one
 e546y403a3g5c3.gdalp.amazonlload.com
@@ -9680,6 +9746,7 @@ empire.iptvgroup.org
 empire360.ddns.net
 empirehaitistarpeoplewell.starplusnewstart.com
 empireital.vip
+ems.bulvaremlakdiyarbakir.com
 ems.reliabilityems.com
 emsol.ottcst.org
 emuortemamt1.wmondo2.site
@@ -9788,6 +9855,7 @@ erdanno2.xyz
 erdanno666.top
 erdege.scplay.co
 erdi.iptv67.com
+erentv.proitv.cc
 eric84382.cdngold.me
 eriditar.shop
 erkfjhvfffd.wellpark.xyz
@@ -9947,6 +10015,7 @@ eurovision.myddns.me
 euroworld365.xyz
 euteger.net
 eutv.dynu.com
+eutv.teledunet.com
 euuksqv.leadcool.xyz
 euvipblack.xyz
 euxx01.com
@@ -10121,6 +10190,7 @@ f9dx7jfdxf0.topo.nostre.homes
 fR7REU3bQXpsYf65ssMFUQ.cdnload2.shop
 fa5h0.freeddns.org
 fab.danger1.uno
+fab.wwj4u.link
 fabers.xyz
 fabio-fratta.usergrb.org
 fabiocr7.ptwo.ch
@@ -10152,6 +10222,7 @@ failban.ddns.net
 failurejohnston.pproxy.cc
 fajndqb.mmastertv.xyz
 fakaur.com
+fake10.tvfullhd.biz
 fake8.teleloca.win
 fakir.hopto.org
 falcon.ac
@@ -10718,6 +10789,7 @@ foreign09.xyz
 foreignresort.pproxy.cc
 forever.digital-0ne.net
 foreverhd.golffan.us
+forfamily4k.top
 forge55508.cdngold.me
 fork85765.cdngold.me
 forlin.my.to
@@ -10832,6 +10904,7 @@ franky.mine.nu
 franky.stuff-4-sale.us
 frans.ddns.net
 fratt.afinrumunn.xyz
+frc.teledunet.com
 frechi.3utilities.com
 fred36522.cdngold.me
 fredblack.top
@@ -11044,6 +11117,7 @@ ftp.yiyz.me
 ftp.zizoiptv.com
 ftp32.dp07.club
 ftpfly.com
+ftuhpcy.mjbnott.xyz
 fu.fuoco.lol
 fubar.live
 fuckthepariol.hopto.org
@@ -11739,6 +11813,7 @@ gotoloco.hopto.me
 gotten45239.cdngold.me
 gotten75688.cdnsilver.me
 gotus.club
+gotv.teledunet.com
 gourmet2020.ddns.net
 goviptv.ottcst.org
 govtylercreate.h1ott.com
@@ -11876,6 +11951,7 @@ gsnotc.ottcst.org
 gspremium1.com
 gsqymcr.megahdtv.xyz
 gss4xxxgzt1238.dynu.net
+gss4xxxgzt1298.dynu.net
 gssivas15-3.ydns.eu
 gt-ott.me
 gt-vision.ddns.net
@@ -12148,6 +12224,7 @@ hez1.007.contact
 hez1oo1.000hitv.lol
 hez221.galax2000.cc
 hf7cj7.msyaa.com
+hfchghg.1sh6b1urgmv3.xyz
 hfcujga.leadcool.xyz
 hfdgzs.fastdns.damnserver.com
 hfg5.carpse.com
@@ -12183,6 +12260,7 @@ hidden94179.cdngold.me
 hideandshoot.zapto.org
 hidese.ddns.net
 hidhupirdhu.ottc.pro
+hifree.live
 highighalta.master-iptv-hopto.me
 highlandertv.ddns.net
 hightv.info
@@ -12259,6 +12337,7 @@ home.largabanda.work
 home.martines.store
 home.pin90.me
 home.tekiptv.net
+home.teledunet.com
 home.tvdigital4k.com
 homeplayer.unexserv.live
 homeplaytv.ddns.net
@@ -12304,6 +12383,7 @@ host4.mondo-live.tech
 host8.bpvtblack.com
 hosteasy313.hoststore.store
 hostel77400.cdnsilver.me
+hostfr.teledunet.com
 hostiptv.com
 hostlive2.ddns.net
 hostmail.network
@@ -12920,6 +13000,7 @@ ip-isa.club
 ip-ttvv2025.work.gd
 ip.01live.club
 ip.alami-sat.xyz
+ip.baskaniptv.com
 ip.bilix.ma
 ip.biptv.live
 ip.buggbunny.xyz
@@ -13160,6 +13241,7 @@ iptv5.amy2.live
 iptv50.amy5.live
 iptv67.com
 iptv8.koolamy.live
+iptv87.best
 iptvadsl.ddnc.us
 iptvalley.com
 iptvangels.xyz
@@ -13238,6 +13320,7 @@ iptvpipeline.fr
 iptvpirate-fu.shop
 iptvpirate-fug.shop
 iptvplatinum.org
+iptvplay.xyz
 iptvport.net
 iptvpremium.click
 iptvpremium.ottc.pro
@@ -14443,6 +14526,7 @@ l1.crystalbox.xyz
 l1.top-iptv.net
 l100a.comeinpark.xyz
 l100b.comeinpark.xyz
+l1iptv.xyz
 l2.clifftv.services
 l2.itvrus.net
 l2.str8amz.com
@@ -15743,6 +15827,7 @@ lobi.4kchannel.one
 loc.vkfr.co.ro
 local-esp.com
 local.123sat.net
+local.teledunet.com
 localhost.168slotxo.info
 localhost.ambbet.bar
 localhost.ambbets.com
@@ -15982,6 +16067,7 @@ m.reddxc1.com
 m.rs6app.com
 m.sharingmasr.com
 m.smpy24.us
+m.teledunet.com
 m.tvmera.com
 m.xp1.tv
 m.yfast.xyz
@@ -16381,6 +16467,7 @@ mail.blackamerica3.xyz
 mail.bluetop.club
 mail.bmbtv.me
 mail.bronce.org
+mail.bulvaremlakdiyarbakir.com
 mail.charleroi11.com
 mail.ci.ue.45-12-2-240.cprapid.com
 mail.clubsmartlive.com
@@ -16850,6 +16937,7 @@ mazzefriarielli.nostra3.com
 mazzepanell.uk
 mazzinga.iptvgroup.org
 mbaoxxp87v5noq3sep7uun.cdnload4.shop
+mbc.teledunet.com
 mbcgroup.teledunet.com
 mbpanel.xyz
 mbsat.buee.me
@@ -17823,6 +17911,7 @@ naruto.italy-team.xyz
 nas.bordo1453.be
 nas.teledunet.com
 nasa-itmedia.org
+nasa.teledunet.com
 nasa51254.cdngold.me
 nasaiptv.com
 nasaiptv.com.cdn.cloudflare.net
@@ -18335,6 +18424,7 @@ noebxp0w0575577u.1076.quimborzee.icu
 noebxp0w1575577a.1076.quimborzee.icu
 noebxp0w1575577s.1076.quimborzee.icu
 noebxp0w2425883q.1047.trenexquop.cfd
+noebxp0w3385733w.1047.trenexquop.cfd
 noebxp0w3401997s.1076.quimborzee.icu
 noebxp0w3401997v.1076.quimborzee.icu
 noebxp0w3575577q.1076.quimborzee.icu
@@ -18345,6 +18435,7 @@ noebxp0w4401997w.1076.quimborzee.icu
 noebxp0w4402533d.1063.whenthelife.top
 noebxp0w4425883z.1047.trenexquop.cfd
 noebxp0w4575577q.1076.quimborzee.icu
+noebxp0w5385733k.1047.trenexquop.cfd
 noebxp0w5401997f.1076.quimborzee.icu
 noebxp0w5401997m.1076.quimborzee.icu
 noebxp0w5575577u.1076.quimborzee.icu
@@ -18871,6 +18962,7 @@ origi-mob-5.supertastypie.com
 origi-node-24.cdnedge.net
 origi-nullh-3.cdn-server.icu
 origi-uuoooooooopvvfxrtyueewjfjjffjjf.coud-cdn.vip
+origi-vda-128-1.cdnedge.net
 origi-walt-2.allgadgets.xyz
 origi-walt-4.fashiondesignerideas.xyz
 origi-walt-5.highfashiondiscount.xyz
@@ -19116,6 +19208,7 @@ panel.platinevision.store
 panel.privethd.life
 panel.sansat.store
 panel.sinostariptv.info
+panel.teledunet.com
 panel.tusiptv.com
 panel.tv-store.co
 panel01.tons.pro
@@ -19367,6 +19460,7 @@ pic.new-kool.com
 picassotv.ottcst.org
 piccadilli.nostra3.com
 piccolapulce.dyndns.uno
+pickcatch.teledunet.com
 pickedrealty.pproxy.cc
 pickypoo.xyz
 piconserver.jinbox.in
@@ -19515,6 +19609,7 @@ play.ottprime.net
 play.plus55.xyz
 play.steeltv.org
 play.sytes.net
+play.teledunet.com
 play.webplay.nl
 play01.top
 playdriver.sicuro.top
@@ -20216,6 +20311,7 @@ proxy.royal-tv.xyz
 proxy.rteiptv.uk
 proxy.serefserdar.com
 proxy.team-iptvsuisse.com
+proxy.teledunet.com
 proxy.testmyiptv.com
 proxy.tralala27.com
 proxy.umitvlkiptv.uk
@@ -21006,6 +21102,7 @@ riovelillos.xyz
 riserva2024vpn.dyndns.org
 riservaip.gleeze.com
 rising58739.cdngold.me
+rissols.space
 ristak.xyz
 ritaora.better-than.tv
 ritesag.shop
@@ -21286,6 +21383,7 @@ s.octotv.live
 s.tino-accssories.com
 s.xp1.tv
 s0.cpapenguin.com
+s01.teledunet.com
 s02.backupdelbackup.com
 s02.ch1temmu0rt.xyz
 s02.claud10m0rell0.com
@@ -21616,6 +21714,7 @@ sapsuc.com
 saqaklavbtvkcljz.ab1.pipotra.homes
 saqaklavvkcljz.ab1.pipotra.homes
 sar.nobip.online
+sar12.live
 sara.cogroupservice2.net
 saracca60.org
 sarahjanetamar.com
@@ -21766,6 +21865,7 @@ scugx.cogroupservice2.net
 scult.gotdns.ch
 sd-123029.dedibox.fr
 sd-123960.dedibox.fr
+sd-138703.dedibox.fr
 sd-147772.dedibox.fr
 sd-166985.dedibox.fr
 sd-174128.dedibox.fr
@@ -22126,6 +22226,7 @@ silverpremium.ottc.pro
 sim.italia-90.com
 sim.webio.life
 sim0.new-kool.com
+sim12.live
 sim19127.cdngold.me
 sim2000.bounceme.net
 simba2024.ns0.it
@@ -23190,6 +23291,7 @@ super-media.giize.com
 super-media.mywire.org
 super-tvnow.com
 super.servemp3.com
+super.teledunet.com
 super131.xyz
 super2024.ddns.net
 super21.tesla-plt.stream
@@ -23517,6 +23619,11 @@ tcbtv.net
 tchenou.ddns.me
 tciptv.com.streamtv.to
 td4k.ottc.pro
+tdn.teledunet.com
+tdn2022.teledunet.com
+tdnca.teledunet.com
+tdnde.teledunet.com
+tdnold.teledunet.com
 tdnvod.teledunet.com
 tdotitalians.ddns.net
 tdpbfb.vulcanico.xyz
@@ -23579,6 +23686,7 @@ tel-tv.net
 tel1.netfit00.com
 telcamcasa.dyndns.info
 tele.ottcst.org
+tele.teledunet.com
 telearabica.teledunet.com
 telecamere4.dyndns.org
 telecamere41.dyndns.org
@@ -24004,6 +24112,7 @@ tmktv.xyz
 tmnt.media
 tmstream.club
 tmz.yigidotv.xyz
+tn.teledunet.com
 tniptv.net
 tnk.rdlstar.xyz
 tnott.com
@@ -24486,6 +24595,7 @@ tunisi.torretelevision.com
 tunisia-egypt-mbc-rotana.teledunet.com
 tunisiaiptv.com
 tunitv.teledunet.com
+tunixion.teledunet.com
 tupuu2.sekkd.com
 tura.xyz
 turbo.miralive.live
@@ -25463,6 +25573,7 @@ vcurv53.xyz
 vcxy.me
 vd.hostinggonow.com
 vd8lj47pya23e74hajamr9cidba4kxlz.36s0l18yhxlp.top
+vda-128-1.cdnedge.net
 vdcfgag.megahdtv.xyz
 vdgidghda.trhf.loadbalnce3.xyz
 ve1170.venus.fastwebserver.de
@@ -25804,6 +25915,7 @@ virgilio.pummarol.store
 virgola.gleeze.com
 virgola79513.newnamed.pro
 virs.streamtv.to
+virt1.locserv.com
 virtualepc.ddns.net
 virtualgame.dynuddns.net
 virtualtunnel.click
@@ -25928,6 +26040,7 @@ vod.endless-vision.xyz
 vod.iptvcentral.nl
 vod.magott.net
 vod.pummarul.online
+vod.teledunet.com
 vod.tusiptveu.com
 vod132.megaott.cx
 vod19.dnsmicrossh.xyz
@@ -25993,6 +26106,7 @@ vps-4a3d7107.vps.ovh.net
 vps-4affc5c3.vps.ovh.net
 vps-50d51274.vps.ovh.net
 vps-5b443880.vps.ovh.net
+vps-5dd2cc14.vps.ovh.net
 vps-6f54f6ad.vps.ovh.net
 vps-7009c5fc.vps.ovh.net
 vps-79a179cb.vps.ovh.net
@@ -26012,6 +26126,7 @@ vps-dcf027ce.vps.ovh.net
 vps-e545f855.vps.ovh.net
 vps-e5786917.vps.ovh.net
 vps-e954f287.vps.ovh.net
+vps-eec1ae4a.vps.ovh.ca
 vps-f0a26e74.vps.ovh.net
 vps-f2302800.vps.ovh.net
 vps-f74c0694.vps.ovh.net
@@ -26039,6 +26154,7 @@ vsjeexg.megahdtv.xyz
 vsp5.url5.xyz
 vster.online
 vster.xyz
+vstr3.007.contact
 vsys.sansat.live
 vsys.sansat.org
 vsyshwsuidye9.myportal.live
@@ -26131,6 +26247,7 @@ watch.napper.stream
 watch.proitv.cc
 watch.rasp.tv
 watch.streamrino.xyz
+watch.teledunet.com
 watch.tvkijkenzondergedoe.com
 watch.x-iptv.live
 watchclub.cc
@@ -26151,6 +26268,7 @@ wavedeal.ottc.pro
 wawdrtv.d4d4.xyz
 wazani.ottc.pro
 wb0otbyhsskpukit9izq4oked54fjg9o.cndpro.top
+wc.bulvaremlakdiyarbakir.com
 wc.reliabilityems.com
 wcam.mysecuritycamera.com
 wcekjkc.megahdtv.xyz
@@ -26164,6 +26282,7 @@ web.battery050.xyz
 web.camohosting.com
 web.creativedirection.online
 web.lfasting.store
+web.teledunet.com
 web.wellnet050.xyz
 web.wellnetlb1.xyz
 web1977.homepc.it
@@ -26682,6 +26801,7 @@ www.cyrius-black.org
 www.d4kguy.com
 www.d4ktvguy.com
 www.danita.xyz
+www.darkip.xyz
 www.datacentar.co
 www.datacentar.info
 www.datacentar.xyz
@@ -27327,6 +27447,7 @@ www.ttspainonline.xyz
 www.tun-market.com
 www.tunisiaiptv.com
 www.turkishairlines.com.ucus1.dnsmicrosshtools.xyz
+www.turkishairlines.com.ucus2.dnsmicrosshtools.xyz
 www.tuscanyan.org
 www.tv.credibletv.com
 www.tv.nadxxy.com
