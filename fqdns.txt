@@ -9501,6 +9501,8 @@ betahizmet.com
 betamg04.fiduceotech.net
 betatester.ddnsking.com
 betatitanium.xyz
+betbot-api.gambledevcommander.com
+betbot.gambledevcommander.com
 betbouta10.dynahost.ovh
 betelgeuse.ottcst.org
 betlamma.com
@@ -25230,6 +25232,7 @@ mgleil33.xyz
 mgmdreambox.ottc.pro
 mgrtvb1.noip.click
 mgsm.discoveryvision.top
+mgsm.mytvlive.xyz
 mgt0eq2qop9npblpiymg9yxlogtm4huq.g9c5kf9r5smz.top
 mgtrex.protv.cc
 mgtv.ddns.net
@@ -36259,6 +36262,7 @@ tvservice.discoveryvisiontv.xyz
 tvservice2.ddns.net
 tvservices.live
 tvsezon.xyz
+tvsg.mytvlive.xyz
 tvshof.net
 tvshop.ottc.pro
 tvshowott.online
