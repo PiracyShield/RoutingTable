@@ -4341,6 +4341,7 @@
 4654078.v.xyfor.xyz
 465428854979.cdn-eag.com
 465498237153.cdn-eag.com
+4655.solafile.com
 46570-hockey.ott-cdn.me
 46583-soma.cdn-o2.me
 46628-surf.cdn-o2.me
@@ -5996,6 +5997,7 @@
 6008080.com
 602100585844.d4ktv.info
 602244140619.d4ktv.info
+60264-labor.ott-cdn.me
 602989672825.d4ktv.info
 6030302.cyb2.popcorn-factory.org
 60699-ent.cdn-o2.me
@@ -19288,6 +19290,7 @@ hamptonc.xyz
 hamza.cwdn.cx
 hamza.ottc.pro
 hamza314.ddns.net
+hana.cdn-port.com
 hancqrr.mhubery.xyz
 hand41302.cdnsilver.me
 hand77508.cdnsilver.me
@@ -32808,6 +32811,7 @@ salik.topuptag.homes
 salik.topuptag.lol
 salkawi.bilix.ma
 sallybeside.pproxy.cc
+salmon29105.cdnsilver.me
 saloumiptv.ddns.net
 salva.pics
 salvadore.ddns.net
@@ -34450,6 +34454,7 @@ srv.bcalcio7.daznedge.com
 srv.bcalcio7.steam.bz
 srv.calcio01.daznedge.com
 srv.calcio010.daznedge.com
+srv.calcio06.daznedge.com
 srv.calcio09.daznedge.com
 srv.calcio1.daznedge.com
 srv.calcio1.slt.best
